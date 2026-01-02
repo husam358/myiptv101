@@ -259,7 +259,6 @@ https://cdn.bestream.io:19360/elfaro1/elfaro1.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.ssad.tv/uploads/ssadtv.logo_.intro_.e.gif" ,صاد
 https://www.enterweb.tv:25463/live/ssadtv/live-tv/1.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.countryflags.com/thumbs/sudan/flag-round-250.png",السودان
-0.0.0.0
 #EXTINF:-1 tvg-id="" tvg-logo="https://sudantv.sd/ar/wp-content/themes/sudantv/images/logo.png" ,السودان
 https://cdn-globecast.akamaized.net/live/eds/sudan_tv/hls_roku/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" ,السودان الإخبارية
@@ -395,7 +394,7 @@ https://edge14.vedge.infomaniak.com/livecast/chadatv/manifest.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.radiomars.ma/wp-content/uploads/2025/05/RADIOMARS_LOGO-3.png" , راديو MARS 
 https://edge18.vedge.infomaniak.com/livecast/ik:radiomars/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.countryflags.com/thumbs/yemen/flag-round-250.png",اليمن
-0.0.0.0
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://yementv.tv/wp-content/uploads/2019/11/logo-Yemen-01-copy.png" ,اليمن 1 
 https://raw.githubusercontent.com/fraudiay79/strm/refs/heads/main/platforms/links/yementv.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" ,عــــدن
@@ -652,7 +651,7 @@ https://rp.tactivemedia.com/alshoobtv/live/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://watanegypt.tv/wp-content/uploads/2021/10/Logo2020-1-1.png" ,وطن
 https://n101.stream.tactivemedia.com/watantv/live/chunks.m3u8
 #EXTINF:-1 tvg-logo="",مـــوريتانيا
-0.0.0.0
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://cdn.countryflags.com/thumbs/mauritania/flag-round-250.png" ,الموريتانية 1
 https://github.com/MassinDV/Youtube-arabic-channels/raw/main/live/ch47.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" ,الموريتانية 2
@@ -739,6 +738,7 @@ https://livear.cgtn.com/1000a/prog_index.m3u8
 https://linear417-gb-hls1-prd-ak.cdn.skycdp.com/100e/Content/HLS_001_1080_30/Live/channel(skynews)/index_1080-30.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/dPmZMqq/bbcn.png",BBC NEWS
 https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/pc_hd_abr_v2.m3u8
+
 
 
 
