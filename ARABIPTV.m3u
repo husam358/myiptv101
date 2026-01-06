@@ -741,6 +741,8 @@ https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_ch
 
 #EXTINF:-1, YacineTV Stream
 https://bs22.cdnfrontstage2.cfd/hls/1/stream.m3u8
+#EXTINF:-1, Kora Plus Stream
+https://a4.kora-plus.space/watch/max1.m3u8?token=GuiF-XS6s2Srd8aYTJW_5Q&expires=1767720998
 
 
 
