@@ -742,85 +742,58 @@ https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_ch
 
 
 
-#EXTINF:0 CUID="141" tvg⭐name="https://t.me/IP4ON قناتنا على التلجرام " tvg⭐logo="https://j.top4top.io/p_2805lxgyw1.jpg" group⭐title="FR | FRANCE GENERAL",https://t.me/IP4ON قناتنا على التلجرام 
-http://maveniptv.net:80/ahmedELmetwally85/ah8759946/372333
-#EXTINF:⭐1,تحديث ملف متوفر علي موقع ايبي فور اون
-http://maveniptv.net:80/ahmedELmetwally85/ah8759946/372333
-#EXTINF:⭐1,للتحديث ملف ابحث في جوجل عن ايبي فور اون 
-http://maveniptv.net:80/ahmedELmetwally85/ah8759946/372333
+
+#EXTINF:-1,beIN Sport  1 ريال
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+https://d3kbb7ih8gckf.cloudfront.net/195.1/hls/1/stream.m3u8
 
 
-#EXTINF:⭐1,ALQURAN ALKAREEM
-http://maveniptv.net:80/ahmedELmetwally85/ah8759946/103560
-#EXTINF:⭐1,ALSUNNAH Madinah
-http://maveniptv.net:80/ahmedELmetwally85/ah8759946/103559
-#EXTINF:⭐1,Egypt Quran Kareem
-http://maveniptv.net:80/ahmedELmetwally85/ah8759946/285214
-#EXTINF:⭐1,Iqraa Quran
-http://maveniptv.net:80/ahmedELmetwally85/ah8759946/285211
-#EXTINF:⭐1,ALMAJD QURAN
-http://maveniptv.net:80/ahmedELmetwally85/ah8759946/193912
-#EXTINF:⭐1,Bahrain Quran
-http://maveniptv.net:80/ahmedELmetwally85/ah8759946/193913
-#EXTINF:⭐1,القرآن الكريم الشارقة
-http://maveniptv.net:80/ahmedELmetwally85/ah8759946/263764
-#EXTINF:⭐1,إذاعة القرآن الكريم الشارقة
-http://maveniptv.net:80/ahmedELmetwally85/ah8759946/263767
-#EXTINF:⭐1,beIN MAX 1 VIP
-http://maveniptv.net:80/ahmedELmetwally85/ah8759946/372333
-#EXTINF:⭐1,beIN MAX 2 VIP
-http://maveniptv.net:80/ahmedELmetwally85/ah8759946/372334
-#EXTINF:⭐1,beIN MAX 1 LOW ⭐ VIP
-http://maveniptv.net:80/ahmedELmetwally85/ah8759946/372335
-#EXTINF:⭐1,beIN MAX 2 LOW ⭐ VIP
-http://maveniptv.net:80/ahmedELmetwally85/ah8759946/372336
-#EXTINF:⭐1,beIN MAX 1 VEGA ⭐ VIP
-http://maveniptv.net:80/ahmedELmetwally85/ah8759946/372337
-#EXTINF:⭐1,beIN MAX 2 VEGA ⭐ VIP
-http://maveniptv.net:80/ahmedELmetwally85/ah8759946/372338
-#EXTINF:⭐1,beIN MAX 1 SD ⭐ VIP
-http://maveniptv.net:80/ahmedELmetwally85/ah8759946/372339
-#EXTINF:⭐1,beIN MAX 2 SD ⭐ VIP
-http://maveniptv.net:80/ahmedELmetwally85/ah8759946/372340
-#EXTINF:⭐1,beIN MAX 3 SD ⭐ VIP
-http://maveniptv.net:80/ahmedELmetwally85/ah8759946/372604
-#EXTINF:⭐1,beIN MAX 4 SD ⭐ VIP
-http://maveniptv.net:80/ahmedELmetwally85/ah8759946/384832
-#EXTINF:⭐1,beIN MAX 1 HD ⭐ VIP
-http://maveniptv.net:80/ahmedELmetwally85/ah8759946/372341
-#EXTINF:⭐1,beIN MAX 2 HD ⭐ VIP
-http://maveniptv.net:80/ahmedELmetwally85/ah8759946/372342
-#EXTINF:⭐1,beIN MAX 3 HD ⭐ VIP
-http://maveniptv.net:80/ahmedELmetwally85/ah8759946/372601
-#EXTINF:⭐1,beIN MAX 4 HD ⭐ VIP
-http://maveniptv.net:80/ahmedELmetwally85/ah8759946/384835
-#EXTINF:⭐1,beIN MAX 1 FHD ⭐ VIP
-http://maveniptv.net:80/ahmedELmetwally85/ah8759946/372343
-#EXTINF:⭐1,beIN MAX 2 FHD ⭐ VIP
-http://maveniptv.net:80/ahmedELmetwally85/ah8759946/372344
-#EXTINF:⭐1,beIN MAX 3 FHD ⭐ VIP
-http://maveniptv.net:80/ahmedELmetwally85/ah8759946/372598
-#EXTINF:⭐1,beIN MAX 4 FHD ⭐ VIP
-http://maveniptv.net:80/ahmedELmetwally85/ah8759946/384838
-#EXTINF:⭐1,beIN MAX 1 4K ⭐ VIP
-http://maveniptv.net:80/ahmedELmetwally85/ah8759946/372345
-#EXTINF:⭐1,beIN MAX 2 4K ⭐ VIP
-http://maveniptv.net:80/ahmedELmetwally85/ah8759946/372346
-#EXTINF:⭐1,beIN MAX 3 4K ⭐ VIP
-http://maveniptv.net:80/ahmedELmetwally85/ah8759946/372595
-#EXTINF:⭐1,beIN MAX 4 4K ⭐ VIP
-http://maveniptv.net:80/ahmedELmetwally85/ah8759946/384841
+#EXTINF:-1,beIN Sport  1 hd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+https://d3kbb7ih8gckf.cloudfront.net/195.1/hls/1/stream.m3u8
+
+
+#EXTINF:-1,beIN Sport  1 hd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+https://d3kbb7ih8gckf.cloudfront.net/195.1/hls/1/stream.m3u8
+
+
+#EXTINF:-1,beIN Sport 2 hd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+https://d3kbb7ih8gckf.cloudfront.net/195.1/hls/2/stream.m3u8
 
 
 
-#EXTINF:0 CUID="141" tvg⭐name="https://t.me/IP4ON قناتنا على التلجرام " tvg⭐logo="https://j.top4top.io/p_2805lxgyw1.jpg" group⭐title="FR | FRANCE GENERAL",https://t.me/IP4ON قناتنا على التلجرام 
-http://maveniptv.net:80/ahmedELmetwally85/ah8759946/372333
-#EXTINF:⭐1,تحديث ملف متوفر علي موقع ايبي فور اون
-http://maveniptv.net:80/ahmedELmetwally85/ah8759946/372333
-#EXTINF:⭐1,للتحديث ملف ابحث في جوجل عن ايبي فور اون 
-http://maveniptv.net:80/ahmedELmetwally85/ah8759946/372333
+
+#EXTINF:-1,beIN Sport  2 hd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+https://d3kbb7ih8gckf.cloudfront.net/195.1/hls/2/stream.m3u8
 
 
+
+
+#EXTINF:-1,beIN Sport 2 hd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+https://d3kbb7ih8gckf.cloudfront.net/195.1/hls/2/stream.m3u8
+
+
+
+#EXTINF:-1,beIN Sport 2 hd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+https://d3kbb7ih8gckf.cloudfront.net/195.1/hls/2/stream.m3u8
+
+
+
+
+#EXTINF:-1,beIN Sport 3 hd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+https://d3kbb7ih8gckf.cloudfront.net/195.1/hls/1/stream.m3u8
+
+
+#EXTINF:-1,beIN Sport 3 hd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+https://d3kbb7ih8gckf.cloudfront.net/195.1/hls/1/stream.m3u8
 
 
 
