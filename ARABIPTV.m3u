@@ -1,20 +1,20 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/iptv-org/epg/master/sites/elcinema.com/elcinema.com_ar.channels.xml"
-#EXTINF:-1 tvg-logo="https://cdn.countryflags.com/thumbs/jordan/flag-round-250.png",الأردن
-#EXTINF:-1 tvg-id="Jordan1.il" tvg-logo="https://static.jrtv.gov.jo/resize-width/380/content/x/Mp/1/Poster.png" group-title="", الأردنية 
+#EXTINF:-1 tvg-logo="https://cdn.countryflags.com/thumbs/jordan/flag-round-250.png",jordan
+#EXTINF:-1 tvg-id="Jordan1.il" tvg-logo="https://static.jrtv.gov.jo/resize-width/380/content/x/Mp/1/Poster.png" group-title="", jordanian 
 https://jrtv-live.ercdn.net/jordanhd/jordanhd.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.jrtv.gov.jo/static/media/spor-live-channel.151799bd.png" ,الأردنية الرّياضية
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.jrtv.gov.jo/static/media/spor-live-channel.151799bd.png" ,jordan sport
 https://jrtv-live.ercdn.net/jordansporthd/jordansporthd.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://backend.roya.tv/imagechanger/Size01Q40R927/images/channels/Uk6vfv1EzBGFuku.png" ,رؤيـــا
+#EXTINF:-1 tvg-id="" tvg-logo="https://backend.roya.tv/imagechanger/Size01Q40R927/images/channels/Uk6vfv1EzBGFuku.png" ,roya
 https://royatv-live.daioncdn.net/royatv/royatv.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://royakids.tv/gallery/logo1.png" ,رؤيـــا أطفال
+#EXTINF:-1 tvg-id="" tvg-logo="https://royakids.tv/gallery/logo1.png" ,roya kids
 https://playlist.fasttvcdn.com/pl/ptllxjd03j6g9oxxjdfapg/roya-kids/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://royanews.tv/assets/images/logo.webp" , رؤيا الإخبارية
+#EXTINF:-1 tvg-id="" tvg-logo="https://royanews.tv/assets/images/logo.webp" ,roya nwes
 https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/ressources/extr/py/royanews.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.almamlakatv.com/css/frontcss/images/logo.png" ,المملكة
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.almamlakatv.com/css/frontcss/images/logo.png" ,al mamlaka
 https://bcovlive-a.akamaihd.net/4109c7ba30fd4a44ad9afe917c67a8c8/eu-central-1/6415809151001/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://nuwubfmrtorg.merlincdn.net/amman-tv/assets/web/general/logo.png" ,عـــمّــــان
+#EXTINF:-1 tvg-id="" tvg-logo="https://nuwubfmrtorg.merlincdn.net/amman-tv/assets/web/general/logo.png" ,amman
 https://ammantv-live.ercdn.net/ammantvhd/ammantvhd.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.factjo.com/App_Themes/webSite/imgThemes/mainlogo2023a.png" ,الحقيقة الدّولية 
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.factjo.com/App_Themes/webSite/imgThemes/mainlogo2023a.png" ,alhakeka aldwolia 
 https://ghaasiflu.online/alhqeqa/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.countryflags.com/thumbs/united-arab-emirates/flag-round-250.png",الإمارات العربية المتحدة
 #EXTINF:-1 tvg-id="AbuDhabiTV.uk" tvg-logo="https://statres.cdn.mgmlcdn.com/analytics/uploads/164/5fdc89c729.png" ,أبوظبي
@@ -743,58 +743,49 @@ https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_ch
 
 
 
-#EXTINF:-1,beIN Sport  1 ريال
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
-https://d3kbb7ih8gckf.cloudfront.net/195.1/hls/1/stream.m3u8
-
-
-#EXTINF:-1,beIN Sport  1 hd
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
-https://d3kbb7ih8gckf.cloudfront.net/195.1/hls/1/stream.m3u8
-
-
-#EXTINF:-1,beIN Sport  1 hd
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
-https://d3kbb7ih8gckf.cloudfront.net/195.1/hls/1/stream.m3u8
-
-
-#EXTINF:-1,beIN Sport 2 hd
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
-https://d3kbb7ih8gckf.cloudfront.net/195.1/hls/2/stream.m3u8
-
-
-
-
-#EXTINF:-1,beIN Sport  2 hd
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
-https://d3kbb7ih8gckf.cloudfront.net/195.1/hls/2/stream.m3u8
-
-
-
-
-#EXTINF:-1,beIN Sport 2 hd
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
-https://d3kbb7ih8gckf.cloudfront.net/195.1/hls/2/stream.m3u8
-
-
-
-#EXTINF:-1,beIN Sport 2 hd
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
-https://d3kbb7ih8gckf.cloudfront.net/195.1/hls/2/stream.m3u8
-
-
-
-
-#EXTINF:-1,beIN Sport 3 hd
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
-https://d3kbb7ih8gckf.cloudfront.net/195.1/hls/1/stream.m3u8
-
-
-#EXTINF:-1,beIN Sport 3 hd
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
-https://d3kbb7ih8gckf.cloudfront.net/195.1/hls/1/stream.m3u8
-
+#EXTINF:-1,BeinSport1
+#EXTVLCOPT:http-user-agent=syria
+https://airmaxx.boats:443/airmaxtvVlP0/airmaxtvSyria0/5516.ts
+#EXTINF:-1,BeinSport2
+#EXTVLCOPT:http-user-agent=syria
+https://airmaxx.boats:443/airmaxtvVlP0/airmaxtvSyria0/5517.ts
+#EXTINF:-1,BeinSport3
+#EXTVLCOPT:http-user-agent=syria
+https://airmaxx.boats:443/airmaxtvVlP0/airmaxtvSyria0/5518.ts
+#EXTINF:-1,BeinSport4
+#EXTVLCOPT:http-user-agent=syria
+https://airmaxx.boats:443/airmaxtvVlP0/airmaxtvSyria0/5519.ts
+#EXTINF:-1,BeinSport5
+#EXTVLCOPT:http-user-agent=syria
+https://airmaxx.boats:443/airmaxtvVlP0/airmaxtvSyria0/5520.ts
+#EXTINF:-1,BeinSport6
+#EXTVLCOPT:http-user-agent=syria
+https://airmaxx.boats:443/airmaxtvVlP0/airmaxtvSyria0/5521.ts
+#EXTINF:-1,BeinSport7
+#EXTVLCOPT:http-user-agent=syria
+https://airmaxx.boats:443/airmaxtvVlP0/airmaxtvSyria0/5522.ts
+#EXTINF:-1,BeinSport8
+#EXTVLCOPT:http-user-agent=syria
+https://airmaxx.boats:443/airmaxtvVlP0/airmaxtvSyria0/5523.ts
+#EXTINF:-1,BeinSport9
+#EXTVLCOPT:http-user-agent=syria
+https://airmaxx.boats:443/airmaxtvVlP0/airmaxtvSyria0/5524.ts
+#EXTINF:-1,BeinSport
+#EXTVLCOPT:http-user-agent=syria
+https://airmaxx.boats:443/airmaxtvVlP0/airmaxtvSyria0/5515.ts
+#EXTINF:-1,BeinSport news
+#EXTVLCOPT:http-user-agent=syria
+https://airmaxx.boats:443/airmaxtvVlP0/airmaxtvSyria0/5514.ts
+#EXTINF:-1,THAMANYA SPORTS 1 HD
+#EXTVLCOPT:http-user-agent=syria
+https://airmaxx.boats:443/airmaxtvVlP0/airmaxtvSyria0/5525.ts
+#EXTINF:-1,THAMANYA SPORTS 2 HD
+#EXTVLCOPT:http-user-agent=syria
+https://airmaxx.boats:443/airmaxtvVlP0/airmaxtvSyria0/5526.ts
+#EXTINF:-1,THAMANYA SPORTS 3 HD
+#EXTVLCOPT:http-user-agent=syria
+https://airmaxx.boats:443/airmaxtvVlP0/airmaxtvSyria0/5527.ts
 
 
 
